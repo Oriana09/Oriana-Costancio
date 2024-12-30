@@ -5,6 +5,7 @@ Soy desarrolladora iOS autodidacta, apasionada por crear aplicaciones móviles. 
 - 🖥️ Actualmente trabajo en el proyecto Cocina-en-casa (https://github.com/Oriana09/Cocina-en-casa)
 - 📚 Estoy estudiando y perfeccionando mis habilidades en UIKit.
 - 🌟 Mis intereses incluyen desarrollo de aplicaciones móviles, diseño de interfaces intuitivas, y patrones de arquitectura como MVVM.
+🎯 Mi objetivo es conseguir mi primer empleo en desarrollo iOS.
 
 ## 📫 Contáctame
 **LinkedIn:** https://www.linkedin.com/in/oriana-costancio-59322120a/

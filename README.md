@@ -8,5 +8,5 @@ Soy desarrolladora iOS autodidacta, apasionada por crear aplicaciones móviles. 
 - 🎯 Mi objetivo es conseguir mi primer empleo en desarrollo iOS.
 
 ## 📫 Contáctame
-**LinkedIn:** https://www.linkedin.com/in/oriana-costancio-59322120a/ 
-**Correo Electrónico:** orinacostancio69@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/oriana-costancio-59322120a/ 
+- **Email:** orinacostancio69@gmail.com
